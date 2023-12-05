@@ -19,7 +19,7 @@ public class Person {
     public Person() {
     }
 
-    // Constructor with all parameters
+    // Constructor with parameters
     public Person(String name, String personalIdentificationNumber, Address address, List<Citizenship> citizenships,
                   String nativeLanguage, List<FamilyRelation> familyRelations, Date birthDate, Date deathDate,
                   String nationality, String maritalStatus) {
