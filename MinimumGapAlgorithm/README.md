@@ -1,7 +1,7 @@
 # MinimumGapAlgorithm
 
 ## Overview
-This project contains a Java implementation of an algorithm that calculates the minimum gap between consecutive integers in an array. It demonstrates simple algorithmic problem-solving and unit testing with JUnit.
+This project contains a Java implementation of an algorithm that calculates the minimum gap between consecutive integers in an array.
 
 ## Functionality
 The `MinimumGapAlgorithm` class provides a static method that:
